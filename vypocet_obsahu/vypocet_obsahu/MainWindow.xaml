@@ -1,0 +1,35 @@
+﻿<Window x:Class="vypocet_obsahu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vypocet_obsahu"
+        mc:Ignorable="d"
+        Title="Výpočet obsahu" Height="450" Width="800">
+    <Grid>
+        <Label Content="Geometrický tvar:" HorizontalAlignment="Left" Margin="56,29,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="comboBox1" HorizontalAlignment="Left" Margin="177,33,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="Čtverec" Name="ctverec"></ComboBoxItem>
+            <ComboBoxItem Content="Trojúhelník" Name="trojuhelnik"></ComboBoxItem>
+            <ComboBoxItem Content="Obdelník" Name="obdelnik"></ComboBoxItem>
+            <ComboBoxItem Content="Kruh" Name="kruh"></ComboBoxItem>
+            <ComboBoxItem Content="Lichoběžník" Name="lichobeznik"></ComboBoxItem>
+        </ComboBox>
+        <Button Content="Vybrat" HorizontalAlignment="Left" Margin="336,35,0,0" VerticalAlignment="Top" Width="75" Click="Vybrat"/>
+        <Image Name="formulaImg"  HorizontalAlignment="Left" Height="136" Margin="56,84,0,0" VerticalAlignment="Top" Width="563"/>
+        <Label Content="Parametry výpočtu:" HorizontalAlignment="Left" Margin="56,252,0,0" VerticalAlignment="Top"/>
+        <Label Content="Výsledek:" HorizontalAlignment="Left" Margin="560,383,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="Vysledek" HorizontalAlignment="Left" Height="23" Margin="619,384,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="80"/>
+        <Button Content="Vypočítat" HorizontalAlignment="Left" Margin="704,387,0,0" VerticalAlignment="Top" Width="75" Click="Vypocitat"/>
+        <StackPanel x:Name="textBoxContainer" HorizontalAlignment="Left" Height="114" Margin="114,295,0,0" VerticalAlignment="Top" Width="208">
+            <TextBox Name="input0" Height="23" TextWrapping="Wrap" Text="" Visibility="Hidden"/>
+            <TextBox Name="input1" Height="23" TextWrapping="Wrap" Text="" Visibility="Hidden"/>
+            <TextBox Name="input2" Height="23" TextWrapping="Wrap" Text="" Visibility="Hidden"/>
+            <TextBox Name="input3" Height="23" TextWrapping="Wrap" Text="" Visibility="Hidden"/>
+            <TextBox Name="input4" Height="23" TextWrapping="Wrap" Text="" Visibility="Hidden"/>
+
+        </StackPanel>
+        <StackPanel x:Name="labelContainer" HorizontalAlignment="Left" Height="100" Margin="56,295,0,0" VerticalAlignment="Top" Width="53"/>
+
+    </Grid>
+</Window>

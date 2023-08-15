@@ -1,0 +1,15 @@
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\bin\Debug\vypocet_obsahu.exe.config
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\bin\Debug\vypocet_obsahu.exe
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\bin\Debug\vypocet_obsahu.pdb
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\vypocet_obsahu.csprojAssemblyReference.cache
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\MainWindow.g.cs
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\App.g.cs
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\vypocet_obsahu_MarkupCompile.cache
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\vypocet_obsahu_MarkupCompile.lref
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\MainWindow.baml
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\vypocet_obsahu.g.resources
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\vypocet_obsahu.Properties.Resources.resources
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\vypocet_obsahu.csproj.GenerateResource.cache
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\vypocet_obsahu.csproj.CoreCompileInputs.cache
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\vypocet_obsahu.exe
+D:\Projekty\testovaciukol\vypocet_obsahu\vypocet_obsahu\obj\Debug\vypocet_obsahu.pdb
